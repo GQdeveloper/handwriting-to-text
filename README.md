@@ -1,2 +1,2 @@
 # handwriting-to-text
-Currently working on the user interface and Tensorflow model.
+Currently working on the user interface and Tensorflow model. Using Pycharm
