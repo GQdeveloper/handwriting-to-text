@@ -1,6 +1,6 @@
 # Handwriting digits to text
 
-Used Pycharm to blend PyQt5 and Tensorflow to predict numbers being drawn on a paint application.
+Used Pycharm IDE to blend PyQt5 and Tensorflow to predict numbers being drawn on a paint application.
 The hardest part about this application was learnnin how to use the tensorflow model.<br />
 
 ### what I learn
