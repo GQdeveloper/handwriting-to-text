@@ -3,6 +3,8 @@
 Used Pycharm IDE to blend PyQt5 and Tensorflow to predict numbers being drawn on a paint application.
 The hardest part about this application was learnnin how to use the tensorflow model.<br />
 
+![Alt Text](https://media.giphy.com/media/dQw8ZdMObdg6dej2Ue/giphy.gif)
+
 ### what I learn
 
 - Learned how to use tensorflow to create a convolutional neural network model
@@ -32,7 +34,7 @@ pip install tensorflow-gpu
 Along with the corresponding Nvidia CUDA version. In my case, I just used the standard Tanserflow package
 If you would like to know more about Tensorflow just visit their main website https://www.tensorflow.org/.
 
-![Alt Text](https://media.giphy.com/media/dQw8ZdMObdg6dej2Ue/giphy.gif)
+
 
 ![tensor](https://user-images.githubusercontent.com/22235903/142326624-55a8d15b-b78b-4c9a-bcc0-6cef5d4ff383.png)
 
